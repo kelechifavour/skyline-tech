@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+
+    
+
+}
+
+caption{
+    font-size: 20px;
+    
+}
+
+table, th,td{
+    border: 1px solid dodgerblue;
+    border-collapse: collapse;
+    border-left: none;
+    border-right: none;
+    
+    
+}
+
+table{
+    width: 70%;
+    margin: auto;
+    padding: 70px;
+    margin-top: 80px;
+}
+
+th,td{
+    text-align: center;
+    padding: 15px 10px;
+    
+}
+
+th{
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.fa-xmark{
+    color: rgb(255, 252, 252);
+    background-color: red;
+}
+
+.fa-check{
+    background-color: green;
+    color: white;
+    margin-left: 5px;
+}
+
+span{
+    background-color: green;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+.d{
+    background-color: blueviolet;
+}
+
+.s{
+    background-color: red;
+}
